@@ -18,7 +18,7 @@ Tecnologias e ferramentas utilizadas no projeto :
 
 ##  Como baixar o projeto 🎁
 ```bash
-    $ git clone https://github.com/GyAlves/GoFinance-Web
+    $ git clone https://github.com/GyAlves/GoFinances-Web
 ```
 ## Desenvolvido por :
 #### Gyasmin Assunção, como parte dos desafios propostos no bootcamp da Rocketseat 2020
