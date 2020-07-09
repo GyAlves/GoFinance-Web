@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  GoFinance Web
+  GoFinances Web
 </h1>
 
 
@@ -17,6 +17,8 @@
 
 </p>
 
+<img alt="GoFinances" src="https://ik.imagekit.io/am6iypeh5w/GoFinances_4QlewH1o8.png">
+
 
 ##  Sobre  📖
 Aplicação Financeira Web desenvolvida com as tecnologias Typescript, Node.JS e React JS. Esta aplicação se conecta a uma APIRestful e 
@@ -30,6 +32,26 @@ Tecnologias e ferramentas utilizadas no projeto :
 - Insomnia
 - ExpressJS
 - Cors
+
+ ## Requisitos necessários para rodar o projeto 
+ - Necessário ter o backend para consumir os dados. Baixe aqui : <a href="https://github.com/GyAlves/GoFinances-Backend">GoFinances Backend</a>
+    
+  ```   
+  // 1 - Git Clone
+  
+  // 2 - Instale as depêndencias
+  yarn install
+  
+  // 3 - Na pasta do backend rode o servidor 
+  yarn dev:server
+  
+  // 4 - Na pasta da aplicação rode o servidor
+  yarn start
+  
+  // O servidor deverá abrir no seu navegador
+
+```
+
 
 ##  Licence :memo:
 
