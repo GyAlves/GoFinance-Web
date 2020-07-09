@@ -24,12 +24,18 @@
 Aplicação Financeira Web desenvolvida com as tecnologias Typescript, Node.JS e React JS. Esta aplicação se conecta a uma APIRestful e 
 retorna os resultados de forma dinâmica. 
 
+## Funcionalidades :
+- Listagem do saldo atual 
+- Listagem do total de saídas
+- Listagem do total de entradas 
+- Listagem das compras com preço e categoria 
+- Funcionalidade de importação de arquivos SV
+
 ## Tecnologias  📱 
 Tecnologias e ferramentas utilizadas no projeto :
 - Typescript
 - Node.JS
 - ReactJS
-- Insomnia
 - ExpressJS
 - Cors
 
